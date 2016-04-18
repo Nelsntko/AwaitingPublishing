@@ -162,6 +162,7 @@ public class AwaitingPublishing extends javax.swing.JFrame {
         generatedText.setRows(5);
         generatedText.setText(reference.getReference());
         jScrollPane2.setViewportView(generatedText);
+        generatedText.setLineWrap(true);
 
         startDateConfirmedField.setBackground(new java.awt.Color(255, 255, 255));
 

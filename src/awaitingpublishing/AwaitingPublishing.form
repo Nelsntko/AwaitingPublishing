@@ -395,6 +395,9 @@
                   <Connection code="reference.getReference()" type="code"/>
                 </Property>
               </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="generatedText.setLineWrap(true);"/>
+              </AuxValues>
             </Component>
           </SubComponents>
         </Container>
